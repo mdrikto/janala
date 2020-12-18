@@ -1,0 +1,73 @@
+@import url ('https://fonts.googleais.com/css?family=open+sans:250,300,400,500,600,700,800,&dispay=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: 'open sans',sans-serif;
+}
+body
+{
+    background-color: #ffffff;
+}
+div
+{
+    width: 310px;
+    background-color: #000000;
+    margin: auto;
+    box-shadow: 0px 1px 10px 1px #000000;
+
+}
+a button
+{
+    width: 310px;
+    height: 35px;
+    background-color: #0833f3;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+}
+h1
+{
+    color: #ffffff;
+    font-size: 24px;
+    margin-left: 5px;
+}
+p
+{
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+a button:hover
+{
+    background-color: #3a3535;
+}
+img
+{
+    width: 100%;
+}
+table
+{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: ;
+}
+tr, td
+{
+    padding: 7px;
+}
+td
+{
+    color: #ffffff;
+    height: 25px;
+    font-size: 19px;
+    font-family: 'Montserrat', sans-serif;
+}
+tr:nth-child(even)
+{
+    background-color: #808080;
+}
